@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ecm",
+    "oncran": true
+  }
+]
